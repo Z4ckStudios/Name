@@ -1,0 +1,17 @@
+
+body {
+  background: #000000;
+  padding: none;
+  margin: none;
+  overflow: hidden;
+}
+#ColorButton {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 2vw;
+  height: 2vw;
+  background: #FFFFFF;
+  border: 5px solid #999999;
+  padding: 5px;
+}
